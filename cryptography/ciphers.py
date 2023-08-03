@@ -12,7 +12,6 @@ def caesar(summary):
     joined_alphabets = ''.join(caes_alphabets)
     table = str.maketrans(joined_alphabets, joined_shifted_alphabets) #creates a translation guide between the entire alphabet and the caesar shifted ones
     return summary.translate(table) #uses this guide to translate and return the summary. 
-print(caesar("uh i didn't break anything right"))
 
 def piglatin(summary): # i know pig latin isn't a cipher but shush. currently it does not piglatinify stuff in brackets. 
     mus = summary.split() # to fix: work with punctuation properly
@@ -25,4 +24,3 @@ def piglatin(summary): # i know pig latin isn't a cipher but shush. currently it
     return ' '.join(trans)
 
 # more to come - basic substitution cipher and mixed substituion cipher
-print(piglatin("(Brackets go brr). punctuation too!! sdjf "))

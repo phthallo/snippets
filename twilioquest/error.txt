@@ -1,0 +1,8 @@
+Executing script: C:\Users\Annabel\Dropbox\My PC (DESKTOP-39DL03V)\Documents\TwilioQuest\citizen.py
+Script arguments: 
+Output:
+  File "C:\Users\Annabel\Dropbox\My PC (DESKTOP-39DL03V)\Documents\TwilioQuest\citizen.py", line 8
+    def full_name(self)
+                       ^
+SyntaxError: expected ':'
+
