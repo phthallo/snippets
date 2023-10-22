@@ -15,7 +15,8 @@ small python programs for my casio cg50 au graphics calculator to make my life e
 - [graphics/factors.py](https://github.com/phthallo/snippets/blob/main/graphics/factors.py) lists all factors of an integer.
 
 ### toyhouse [wip]
-program that's meant to evaluate whether any of your characters are in another user's favourited characters. authentication completed <- this is required because some characters are set to auth-only or hidden from guests 
+~~program that's meant to evaluate whether any of your characters are in another user's favourited characters. authentication completed <- this is required because some characters are set to auth-only or hidden from guests~~
+[moved to a separate repository!](https://github.com/phthallo/toyhouse-character-checker)
 
 ### twilioquest 
 cleared out some of my documents and found my twilioquest solutions from late last year (python and javascript)
