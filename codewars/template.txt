@@ -1,0 +1,24 @@
+---
+tags:
+  - code
+topic: 
+difficulty: $difficulty
+link: $link
+date: $date
+---
+# Problem 
+## Description
+$description
+
+## Test Cases
+$testcases
+
+# Solution
+## My Solution
+
+
+## Other Solutions
+
+
+
+## Learning Experiences
